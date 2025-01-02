@@ -1,4 +1,4 @@
-#Chat-App(Haveachat)
+## Chat-App(Haveachat)
 
 A realtime chatting application based on flutter
 
