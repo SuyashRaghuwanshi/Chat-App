@@ -1,16 +1,7 @@
-# haveachat
+#Chat-App(Haveachat)
+A realtime chatting application based on flutter
 
-A new Flutter project.
+## Some Pictures of the application
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (302)](https://github.com/user-attachments/assets/67eab29a-7041-410c-a4e5-3f32ee56da68)
+![Screenshot (301)](https://github.com/user-attachments/assets/75aaf98a-b330-491a-9948-d5587176c7eb)
