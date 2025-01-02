@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyByKMnXZ0d5GciIruQeaRPYPPXtkfErDpI',
+    apiKey: 'AIzaSyByKMnXZ0d5GciIruQeaRPYPPXtkfErDp',
     appId: '1:492187444908:android:735aba992d771e75b06109',
     messagingSenderId: '492187444908',
     projectId: 'flutter-havea-chat',
@@ -55,7 +55,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCblt_97qQPRF0UW2fKDOGh7uMBnY2vTsk',
+    apiKey: 'AIzaSyCblt_97qQPRF0UW2fKDOGh7uMBnY2vTs',
     appId: '1:492187444908:ios:af7288cb2d70ed8bb06109',
     messagingSenderId: '492187444908',
     projectId: 'flutter-havea-chat',
@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCFNwVg5bz09KjlcgRTk3a1FhSuT09G2gw',
+    apiKey: 'AIzaSyCFNwVg5bz09KjlcgRTk3a1FhSuT09G2g',
     appId: '1:492187444908:web:b7c5148fbc22de93b06109',
     messagingSenderId: '492187444908',
     projectId: 'flutter-havea-chat',
